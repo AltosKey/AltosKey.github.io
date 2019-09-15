@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Museo Sans Cyrl 300';
+    src: url('../fonts/MuseoSansCyrl-300Italic.eot');
+    src: url('../fonts/MuseoSansCyrl-300Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl-300Italic.woff2') format('woff2'),
+        url('../fonts/MuseoSansCyrl-300Italic.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl-300Italic.ttf') format('truetype'),
+        url('../fonts/MuseoSansCyrl-300Italic.svg#MuseoSansCyrl-300Italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl 300';
+    src: url('../fonts/MuseoSansCyrl-300.eot');
+    src: url('../fonts/MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl-300.woff2') format('woff2'),
+        url('../fonts/MuseoSansCyrl-300.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl-300.ttf') format('truetype'),
+        url('../fonts/MuseoSansCyrl-300.svg#MuseoSansCyrl-300') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl 700';
+    src: url('../fonts/MuseoSansCyrl-700.eot');
+    src: url('../fonts/MuseoSansCyrl-700.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl-700.woff2') format('woff2'),
+        url('../fonts/MuseoSansCyrl-700.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl-700.ttf') format('truetype'),
+        url('../fonts/MuseoSansCyrl-700.svg#MuseoSansCyrl-700') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl 100';
+    src: url('../fonts/MuseoSansCyrl-100.eot');
+    src: url('../fonts/MuseoSansCyrl-100.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MuseoSansCyrl-100.woff2') format('woff2'),
+        url('../fonts/MuseoSansCyrl-100.woff') format('woff'),
+        url('../fonts/MuseoSansCyrl-100.ttf') format('truetype'),
+        url('../fonts/MuseoSansCyrl-100.svg#MuseoSansCyrl-100') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+.box {
+	padding: 10px;
+	border: 2px solid silver;
+	margin-top: 20px;
+	border-radius: 5px;
+	height: 220px;
+	position: relative;
+	
+	
+}
+
+.box p {
+	text-align: center;
+	font-family: 'Museo Sans Cyrl 100', sans-serif;
+	color: blue;
+	line-height: 1.4;
+	font-style: italic;
+}
+
+.wrap {
+	
+	
+	
+}
